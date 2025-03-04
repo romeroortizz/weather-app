@@ -36,10 +36,10 @@ button{
     padding: 0 1rem;
     font-weight: 600;
     cursor: pointer;
-    background: rgb(12, 1, 81);
+    background: rgb(8, 0, 57);
     transition: 0.5s ease;
     color: white;
 }
 button:hover{
-    background: rgb(17, 1, 123); 
+    background: rgb(12, 1, 85); 
 }
